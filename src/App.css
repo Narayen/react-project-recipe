@@ -1,0 +1,8 @@
+body {
+  font-family: 'Open Sans', sans-serif !important;
+  background: linear-gradient(to left, rgba(7,27,82,1) 0%, rgba(1,128,128,1) 100%);
+}
+
+.text-slanted {
+  font-family: 'Courgette', cursive;
+}
